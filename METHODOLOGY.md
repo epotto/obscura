@@ -7,7 +7,7 @@ To establish the baseline urban radiance ($I_0$), we utilize the Earth Observati
 * **Product:** VIIRS Day/Night Band (DNB), Monthly Cloud-Free Composites (`vcmcfg`).
 * **Protocol:** A 500-meter buffer is applied to a defined urban centroid coordinate. The R `terra` package is used to extract the mean radiance from the `.avg_rade9.tif` GeoTIFF, ensuring the model accounts for the total luminous output of the core before atmospheric scattering occurs.
 
-## 2. Ground Truth Field Protocol
+## 2. Ground Field Protocol
 To empirically determine regional atmospheric attenuation, field data is gathered via Radial Transect Networks.
 * **Environmental Prerequisites:** Data collection is strictly limited to New Moon phases with 0% cloud cover to eliminate lunar interference and cloud-albedo reflection.
 * **Routing:** Transects are driven outward from the urban centroid along paths of least topographic resistance to capture the natural geometric spread of the light dome.
