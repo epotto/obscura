@@ -6,7 +6,7 @@ Scientific rigor requires acknowledging the boundaries of the current model. The
 * **Snow Albedo:** The current model does not dynamically adjust for winter snowpack, which acts as a massive reflector, bouncing outward-traveling urban light back up into the atmosphere and artificially expanding the radius of the light dome.
 * **Atmospheric Inversions:** In mountainous valley topographies, cold air frequently pools on the valley floor, trapping high concentrations of particulate matter and smog. These inversion layers drastically alter the attenuation coefficient ($\alpha$) compared to standard atmospheric mixing conditions. 
 * **Aerosol Optical Depth (AOD) & Wildfire Smoke:** The model calculates a single $\alpha$ for the night of observation. However, in regions like the American West, localized dust and transient wildfire smoke can drastically alter atmospheric scattering geometries from one week to the next, requiring multiple temporal datasets to establish a true regional baseline.
-** ** This is especially relevent for the region since it is common practice for farmers in the region to burn their fields to sow nutrients into the soil.
+  * ** This is especially relevent for the region since it is common practice for farmers in the region to burn their fields to sow nutrients into the soil.
 
 ## 2. Hardware Bias & Spectral Mismatch
 * **The Zenith Limitation:** The Unihedron SQM-L features a roughly 20-degree field of view oriented straight up (the zenith). It is possible for the sensor to report a pristine dark sky reading overhead while a massive, ecologically disruptive light dome dominates the horizon. 
