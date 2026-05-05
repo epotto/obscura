@@ -9,4 +9,4 @@ This repository currently houses the Phase I architecture: a highly reproducible
 
 OBSCURA provides researchers, conservationists, and dark-sky advocates with the open-source tools necessary to autonomously predict true sky brightness across complex terrains. Ultimately, this repository establishes a foundational, physics-based infrastructure for the emerging field of Night Sky Ecology, ensuring that the global study of light pollution relies on empirically derived optical realities rather than generalized estimations. 
 
-We happily invite collaboration to help build the definitive mathematical standard for characterizing the loss of the night. The night sky is a collection of particles influenced by many compounding variables, some of which can be predicted, some of which cannot. We have found every piece of input to guide our understanding and will be happy to recieve yours!
+We happily invite collaboration to help build the definitive mathematical standard for characterizing the loss of the night. We have found every piece of input to guide our understanding and will be happy to recieve yours!
