@@ -1,6 +1,6 @@
 # Methodology: The OBSCURA Pipeline
 
-This document outlines the standard operating procedure for executing an OBSCURA spatial light model. The pipeline relies on a three-tier approach: top-down satellite extraction, ground-truth field data, and R-based spatial computation.
+This document outlines the standard operating procedure for executing an OBSCURA spatial light model. The pipeline relies on a three-tier approach: top-down satellite extraction, ground field data, and R-based spatial computation.
 
 ## 1. Source Data Acquisition (VIIRS)
 To establish the baseline urban radiance ($I_0$), we utilize the Earth Observation Group (EOG) repository.
