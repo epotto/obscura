@@ -1,5 +1,7 @@
 # Data Dictionary
 
+The night sky is a collection of particles influenced by many compounding variables, some of which can be predicted, some of which cannot.
+
 To ensure cross-compatibility and prevent unit-conversion errors, all variables within the OBSCURA pipeline must adhere to the following standards.
 
 | Variable Name | Description | Units | Data Type | Source / Calculation |
